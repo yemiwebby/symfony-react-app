@@ -14,6 +14,7 @@ Once we are done with this tutorial, you will have learned how to combine reusab
 ### What is Symfony
 ### What is React
 ### Combining React and Symfony
+
 > Here I will give an overview and benefits of combining Symfony and React
 
 ### What you will build with React and Symfony
