@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import axios from 'axios';
 import {Route, Switch,Redirect, Link, withRouter} from 'react-router-dom';
 import Users from './Users';
 import Posts from './Posts';
