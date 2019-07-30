@@ -6,7 +6,7 @@ Every modern web application built with PHP now requires a huge amount of logic 
 
 Contrary to the structure of Laravel, [Symfony](https://symfony.com/) as a set of reusable PHP components does not favor a particular library or fronted framework over another. It gives you the flexibility to decide what runs and powers the frontend logic of your application. In this tutorial, I will show you how to seamlessly build a single page application using Symfony and React.
 
-Once we are done with this tutorial, you would have learned how to combine reusable user interface components built with React and Symfony together.
+Once we are done with this tutorial, you would have learned how to combine reusable user interface components built with [React](https://reactjs.org/) and Symfony together.
 
 
 ## Prerequisites
