@@ -23,7 +23,7 @@ Also, you need to ensure that you have [Node.js](https://nodejs.org/en/) and [Ya
 
 ## What is React
 
-React is known for being an incredible JavaScript frontend framework used for building frontend logic of a web application. It is an open-source library, quite popular and preferable by lots of Javascript developers. React makes the experience of building a creative user interface painless and allows you to easily manage the state of your application. At the heart of all React applications are self-contained module named **components.** Amongst other things, components make your code reusable and give your application a proper structure. 
+React is known for being an incredible JavaScript framework used for building the frontend logic of a web application. It is an open-source library, quite popular and preferable by lots of Javascript developers. React makes the experience of building a creative user interface painless and allows you to easily manage the state of your application. At the heart of all React applications are self-contained modules named **components.** Amongst other things, components make your code reusable and give your application a modularized and organized structure. 
 
 
 ## Combining React and Symfony
