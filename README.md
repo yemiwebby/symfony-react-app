@@ -37,16 +37,14 @@ As at the time of writing, React is one of the most widely used JavaScript front
 
 ## What you will build with React and Symfony
 
-To get started easily, we will keep things simple by building an application that will be used to fetch the list of users and posts from APIs designed for that purpose. This will be a two-page application where you will be able to navigate between two different pages and view the contents rendered accordingly as shown below:
-
+To get started, we will keep things simple by building an application that will be used to fetch a list of users and posts from APIs. This will be a two-page application where you will be able to navigate between two different pages and view the contents rendered accordingly as shown below:
 
 ![](https://paper-attachments.dropbox.com/s_1265725ADB054532A55C0EFD08DF0FAB2CEE8562C503298703A715DFE50C9E5D_1563648113410_ezgif.com-video-to-gif+33.gif)
 
 
+Keep in mind, this application represents a little bit of deviation from how Symfony as a framework traditionally works. From state management of data, to page rendering, and routing from one page to another, the approach that we will employ depends fully on using [React Router](https://reacttraining.com/react-router/web/) for routing and management of the state of the application. It differs by using the local state object within each React reusable component to store history, providing real-time responsiveness.
 
-This application represents a little bit of deviation from how Symfony as a framework traditionally handles everything from the state management of data to page rendering and routing from a page to another. The approach that we will employ here depends fully on using [React Router](https://reacttraining.com/react-router/web/) for routing and the management of the state of the applications, using the local state object within each React reusable components.
-
-To fetch the list of users, we will build a backend API with dummy data using Symfony and also, to fetch the list of posts, we will make use of a fake online REST API for testing and prototyping named [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
+To fetch the list of users, we will build a backend API with dummy data using Symfony. To fetch the list of posts, we will make use of a fake online REST API for testing and prototyping named [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
 
 ## Scaffolding the Symfony Application
 
