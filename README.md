@@ -16,9 +16,9 @@ Basic knowledge of building applications with React, Symfony and a reasonable kn
 Also, you need to ensure that you have [Node.js](https://nodejs.org/en/) and [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/) installed on your development machine. If you are yet to get them installed, kindly check [this link to learn how to properly install Node.js](https://nodejs.org/en/)and here for [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/). Lastly, you also need to install [Composer](https://getcomposer.org/).
 
 
-## What is Symfony
+## What is Symfony?
 
-[Symfony](https://symfony.com/what-is-symfony) as a set of PHP components has a reputation of powering a lot of enterprise web applications, which makes it a top choice for high performant applications. It is a web framework with an elegant structure and appropriate for creating any web application project irrespective of the size and complexity. You can [check its official documentation](https://symfony.com/) to learn more about its awesome features and concepts.
+[Symfony](https://symfony.com/what-is-symfony) as a set of PHP components has a reputation of powering a lot of enterprise web applications, which makes it a top choice for high performant applications. It is a web framework with an elegant structure and appropriate for creating any web application project, irrespective of the size and complexity. You can [check its official documentation](https://symfony.com/) to learn more about its awesome features and concepts.
 
 
 ## What is React
