@@ -50,7 +50,7 @@ To fetch the list of users, we will build a backend API with dummy data using Sy
 
 ## Scaffolding the Symfony Application
 
-To begin, we will use composer to quickly create a new Symfony application for this article. Alternatively, you can also use [Symfony installer](https://symfony.com/doc/current/setup/symfony_server.html#installation) to set up your project by [following the instructions here](https://symfony.com/download). To proceed, access the terminal in your operating system and navigate to your development directory, then run the following command to create a project named `symfony-react-project`.
+To begin, we will use Composer to quickly create a new Symfony application for this article. Alternatively, you can also use [Symfony installer](https://symfony.com/doc/current/setup/symfony_server.html#installation) to set up your project by [following the instructions here](https://symfony.com/download). To proceed, access the terminal in your operating system and navigate to your development directory. Then run the following command to create a project named `symfony-react-project`.
 
 
 ```bash
