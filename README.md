@@ -11,9 +11,9 @@ Once we are done with this tutorial, you would have learned how to combine reusa
 
 ## Prerequisites
 
-Basic knowledge of building applications with React, Symfony and a reasonable knowledge of objected-oriented programming with PHP is advised to follow along properly and get the best out of this tutorial. 
+Basic knowledge of building applications with React, Symfony and a reasonable knowledge of objected-oriented programming with PHP is advised to follow along properly and get the best results from this tutorial. 
 
-Also, you need to ensure that you have [Node.js](https://nodejs.org/en/) and [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/) installed on your development machine. If you are yet to get them installed, kindly check [this link to learn how to properly install Node.js](https://nodejs.org/en/)and here for [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/). Lastly, you also need to install [Composer](https://getcomposer.org/).
+Also, you need to ensure that you have [Node.js](https://nodejs.org/en/) and [Yarn package manager](https://yarnpkg.com/lang/en/docs/install/) installed on your development machine. Lastly, you need to install [Composer](https://getcomposer.org/) to manage dependencies.
 
 
 ## What is Symfony
