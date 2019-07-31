@@ -357,8 +357,7 @@ body {
 
 ## The Home component
 
-Now, create the `HomeComponent`  by opening the `./assets/js/components/Home.js` file created earlier and add the following code:  
-
+Now, create the `HomeComponent` by opening the `./assets/js/components/Home.js` file created earlier, and add the following code:  
 
 ```javascript
 // ./assets/js/components/Home.js
