@@ -28,11 +28,11 @@ React is known for being an incredible JavaScript framework used for building th
 
 ## Combining React and Symfony
 
-Some years ago, handling frontend logic of any web application was mostly powered by either using JavaScript or JQuery. This was the trend then and somewhat still relevant till date. The huge amount of logic required on the frontend of our applications now requires a library that is well structured, intuitive and robust enough to reduce the amount of code you will need to write just to get things done.
+Some years ago, handling frontend logic of any web application was mostly powered by either using "Vanilla" JavaScript or JQuery. While this was the trend, and in some markets is still the case, our current applications are larger and more complex. These requirements require a library that is well structured, intuitive and robust enough to reduce the amount of code you will need to write just to get things done.
 
-Here, the likes of Vue, Angular, Ember, and React comes to mind. As stated earlier, Symfony distinguished itself from other PHP contenders in the community by allowing developers to use any frontend library of their choice. The introduction of a pure-JavaScript library called [Symfony Webpack Encore](https://symfony.com/doc/current/frontend/encore/installation.html) is the game-changer, as it offers a simplified process for working with both CSS and JavaScript in a Symfony application.
+Because PHP is traditionally a server-side language, a modern framework is expected to include support for seamlessly integrating Javascript libraries with the backend. The introduction of a pure-JavaScript library called [Symfony Webpack Encore](https://symfony.com/doc/current/frontend/encore/installation.html) is the game-changer, as it offers a simplified process for working with both CSS and JavaScript in a Symfony application.
 
-As at the time of writing, React is one of the most widely used JavaScript frontend libraries for building user interface because of its simplicity. We will focus on it in this tutorial and as you proceed, you will be enlightened more on how to combine React and Symfony in a single project successfully.
+At the time of writing, React is one of the most widely used JavaScript frontend libraries for building user interfaces because of its simplicity and large developer community. We will focus on it in this tutorial and as you proceed, you will be enlightened on how to combine React and Symfony into a single project successfully.
  
 
 ## What you will build with React and Symfony
