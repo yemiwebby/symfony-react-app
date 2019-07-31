@@ -619,7 +619,7 @@ In this tutorial, you have learned how to build a single page application, using
 I hope you found this tutorial helpful. Feel free to go through the [source code of this application on GitHub](https://github.com/yemiwebby/symfony-react-app) and add more features as you deem fit. Looking forward to hearing about what you will build using the knowledge gained from this tutorial.
 
 
-Name: Olususi Oluyemi \s\s
+Name: Olususi Oluyemi\s\s
 Avatar: https://pbs.twimg.com/profile_images/952789235576246272/5dDs0wbK_400x400.jpg
 Bio: A tech enthusiast, programming freak and a web development junkie who loves to embrace new technology.
 Twitter: https://twitter.com/yemiwebby
