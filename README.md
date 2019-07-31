@@ -62,17 +62,17 @@ The preceding command will install the new Symfony application successfully on y
 
 ## Start the application
 
-Start the application using the in-built Symfony PHP web server by changing directory into the newly created project and run the following command to start the application:
+Start the application using the built-in Symfony PHP web server by changing directory into the newly created project. Run the following command to start the application:
 
 ```bash
 // Change directory
 cd symfony-react-project
-    
+
 // Start the server
 php bin/console server:run
 ```
 
-Open your browser and navigate to http://localhost:8000 to view the welcome page. The version displayed here is the current one for Symfony as at the time of writing, which might not be the same as yours:
+Open your browser and navigate to `http://localhost:8000` to view the welcome page. The version displayed here is the current one for Symfony at the time of writing, which might not be the same as yours:
 
 
 ![](https://paper-attachments.dropbox.com/s_1265725ADB054532A55C0EFD08DF0FAB2CEE8562C503298703A715DFE50C9E5D_1563630485394_symfony-react-home.png)
