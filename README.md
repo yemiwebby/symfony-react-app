@@ -81,14 +81,14 @@ Open your browser and navigate to `http://localhost:8000` to view the welcome pa
 
 ## Create a DefaultController
 
-Now that we have a Symfony project installed, we need to generate a new controller to handle rendering of content and also for building the backend API to fetch list of users. Stop the development server from running using `CTRL + C` and run the following command afterward:
-
+Now that we have a Symfony project installed, we need to generate a new controller to handle the rendering of content and also for building the backend API to fetch a list of users. Stop the development server from running using `CTRL + C` and run the following command afterward:
+    
 ```php
 php bin/console make:controller DefaultController
 ```
 
 
-This will create two new files for you, a controller located in `src/Controller/DefaultController.php` and a view page in `templates/default/index.html.twig`. Open the `DefaultController.php` file and replace its content with:
+This will create two new files for you; a controller located in `src/Controller/DefaultController.php` and a view page in `templates/default/index.html.twig`. Open the `DefaultController.php` file and replace its content with:
 
 ```php
 // ./src/Controller/DefaultController
@@ -113,7 +113,7 @@ class DefaultController extends AbstractController
 }
 ```
 
-Controllers in Symfony handles all HTTP request sent to an application and return the appropriate view or response. In this case, what we have done differently is to include a different parameter `{reactRouting}` within the route annotation of the controller. With this annotation in place, all routes to the homepage will be handled by React.
+Controllers in Symfony handle all HTTP requests sent to an application and return the appropriate view or response. In this case, we have modified that behavior to include a different parameter `{reactRouting}` within the route annotation of the controller. With this annotation in place, all routes to the homepage will be handled by React.
 
 
 ## Get the list of users 
