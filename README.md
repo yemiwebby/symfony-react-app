@@ -81,14 +81,14 @@ Open your browser and navigate to http://localhost:8000 to view the welcome page
 
 ## Create a DefaultController
 
-Now that we have a Symfony project installed, we need to generate a new controller to handle rendering of content and also for building the backend API to fetch list of users. Stop the development server from running using `CTRL + C` and run the following command afterward:
-
+Now that we have a Symfony project installed, we need to generate a new controller to handle the rendering of content and also for building the backend API to fetch a list of users. Stop the development server from running using `CTRL + C` and run the following command afterward:
+    
 ```php
 php bin/console make:controller DefaultController
 ```
 
 
-This will create two new files for you, a controller located in `src/Controller/DefaultController.php` and a view page in `templates/default/index.html.twig`. Open the `DefaultController.php` file and replace its content with:
+This will create two new files for you; a controller located in `src/Controller/DefaultController.php` and a view page in `templates/default/index.html.twig`. Open the `DefaultController.php` file and replace its content with:
 
 ```php
 // ./src/Controller/DefaultController
