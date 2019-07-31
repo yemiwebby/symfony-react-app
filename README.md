@@ -206,7 +206,7 @@ At the moment, we have successfully setup the Symfony application. In the next s
 
 ## Building the Frontend App with React
 
-To successfully setup the React application we will install Symfony Webpack Encore. To begin, open another terminal ad while you are still within the project directory, run the following command to install Webpack Encore using composer:
+To successfully setup the React application, we will install Symfony Webpack Encore. To begin, open another terminal and run the following command to install Webpack Encore using Composer. Make sure you are still in the project directory.
 
 ```bash
 composer require symfony/webpack-encore-bundle
