@@ -173,10 +173,9 @@ class DefaultController extends AbstractController
 }
 ```
 
-Here, the `getUsers()`  method returned the list of users in JSON format, which will make it very easy for our React application to consume and update the view with it. Also, instead of using a dummy data as displayed above, you can get the list of users from your application’s database and return a JSON response from your controller.
+Here, the `getUsers()` method returned the list of users in JSON format. This response will make it very easy for our React application to consume and update the view with the returned data. Also, instead of using dummy data as displayed above, you can get the list of users from your application’s database and return a JSON response from your controller.
 
-Next, open `template/default/index.html.twig` and paste the following in it:
-
+Next, open `template/default/index.html.twig` and paste the following into it:
 
 ```
 {# ./template/default/index.html.twig #}
@@ -192,7 +191,8 @@ Next, open `template/default/index.html.twig` and paste the following in it:
  {% endblock %}
  ```
 
-This template will render the React application within Symfony. We will bind the React app to the `div` with an id of `root`.
+This template will render the React application within Symfony by binding the React app to the `div` with an 
+id of `root`.
 
 
 Next, you can test the backend API using [Postman](https://www.getpostman.com/). Start the application again from the terminal using the development server by running `php bin/console server:run`. Next, try accessing the user list endpoint on http://localhost:8000/users. You will see the list of users as show here:
