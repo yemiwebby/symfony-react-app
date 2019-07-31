@@ -584,7 +584,7 @@ Navigate to `templates/base.html.twig` and update it with the following code:
 </html>
 ```
 
-We included the CDN files for Bootstrap, Font Awesome and Google Font. Also we added the script `encore_entry_script_tags()`  and link tag `encore_entry_link_tags()` thanks to Webpack Encore Bundle.
+We included the CDN files for Bootstrap, Font Awesome and Google Fonts. Also we added the script `encore_entry_script_tags()` and link tag `encore_entry_link_tags()` thanks to Webpack Encore Bundle.
 
 
 ## Running your React and Symfony App
