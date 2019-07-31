@@ -626,6 +626,6 @@ Avatar: https://pbs.twimg.com/profile_images/952789235576246272/5dDs0wbK_400x400
 Bio: A tech enthusiast, programming freak and a web development junkie who loves to embrace new technology.
 
 Twitter: https://twitter.com/yemiwebby <br />
-GitHub: https://github.com/yemiwebby
-Website: https://yemiwebby.com.ng/
+GitHub: https://github.com/yemiwebby <br />
+Website: https://yemiwebby.com.ng/ <br />
 
