@@ -168,7 +168,14 @@ class DefaultController extends AbstractController
             ]
         ];
     
-        return new JsonResponse($users);
+        $response = new Response();
+
+        $response->headers->set('Content-Type', 'application/json');
+        $response->headers->set('Access-Control-Allow-Origin', '*');
+
+        $response->setContent(json_encode($users));
+        
+        return $response;
     }
 }
 ```
