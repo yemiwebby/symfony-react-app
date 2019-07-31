@@ -327,7 +327,7 @@ ReactDOM.render(<Router><Home /></Router>, document.getElementById('root'));
 
 ## Add a stylesheet
 
-To make the page more appealing we will add some styles within `./assets/css/app.css`. Open the file and paste the following in it:
+To make the page more appealing, we will add some styles within `./assets/css/app.css`. Open the file and paste the following in it:
 
 ```css
 // assets/css/app.css
