@@ -113,7 +113,7 @@ class DefaultController extends AbstractController
 }
 ```
 
-Controllers in Symfony handles all HTTP request sent to an application and return the appropriate view or response. In this case, what we have done differently is to include a different parameter `{reactRouting}` within the route annotation of the controller. With this annotation in place, all routes to the homepage will be handled by React.
+Controllers in Symfony handle all HTTP requests sent to an application and return the appropriate view or response. In this case, we have modified that behavior to include a different parameter `{reactRouting}` within the route annotation of the controller. With this annotation in place, all routes to the homepage will be handled by React.
 
 
 ## Get the list of users 
