@@ -553,7 +553,7 @@ class Posts extends Component {
 export default Posts;
 ```
 
-Within this component, we created a method named `getPosts()` to retrieve the list of sample posts from the public API and loop through it to update the view with the list.
+Within this component, we created a method named `getPosts()` to retrieve the list of sample posts from the public API and looped through it to update the view with the list.
 
 
 ## Update the Base Template
