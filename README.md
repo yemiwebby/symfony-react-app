@@ -357,8 +357,7 @@ body {
 
 ## The Home component
 
-Now, create the `HomeComponent`  by opening the `./assets/js/components/Home.js` file created earlier and add the following code:  
-
+Now, create the `HomeComponent` by opening the `./assets/js/components/Home.js` file created earlier, and add the following code:  
 
 ```javascript
 // ./assets/js/components/Home.js
@@ -400,7 +399,7 @@ class Home extends Component {
 export default Home;
 ```
 
-Here, what you have done is to import the required modules (some of the files will be created later in this section) and within the `render()` method, you included the navigation bar and used React-Router to render the appropriate components.
+Here we imported the required modules (some of the files will be created later in this section) and within the `render()` method, included the navigation bar, and used React-Router to render the appropriate components.
 
 ## The User Component
 
