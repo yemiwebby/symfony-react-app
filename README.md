@@ -175,10 +175,10 @@ class DefaultController extends AbstractController
 
 Here, the `getUsers()` method returned the list of users in JSON format. This response will make it very easy for our React application to consume and update the view with the returned data. Also, instead of using dummy data as displayed above, you can get the list of users from your application’s database and return a JSON response from your controller.
 
-Next, open `template/default/index.html.twig` and paste the following into it:
+Next, open `templates/default/index.html.twig` and paste the following into it:
 
 ```
-{# ./template/default/index.html.twig #}
+{# ./templates/default/index.html.twig #}
     
 {% extends 'base.html.twig' %}
     
