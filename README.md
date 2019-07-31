@@ -298,7 +298,7 @@ From the configuration above, Encore will load `./assets/js/app.js` as the entry
 
 ## Building React components
 
-React is well known in the tech community for giving JavaScript developers the ability to build reusable components and use them in a project. This makes it easy to build a modular reusable code that enhances the structure of an application.
+React is well known in the tech community for giving JavaScript developers the ability to build reusable components for use within a project. This makes it easy to build modular, reusable code that enhances the structure of an application.
 
 To begin, create a new folder within `assets/js` directory and name it `components`. This components folder will house the following reusable components:
 
