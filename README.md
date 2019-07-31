@@ -232,7 +232,7 @@ yarn add @babel/plugin-proposal-class-properties @babel/plugin-transform-runtime
 
 ## Configuring Webpack Encore
 
-Next, we will configure Webpack Encore by enabling React and also set up an entry point within `webpack.config.js` file at the root of your project as shown here:
+Next we will configure Webpack Encore by enabling React and also set up an entry point within `webpack.config.js` file at the root of your project as shown here:
 
 
 ```
