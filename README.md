@@ -310,7 +310,7 @@ To begin, create a new folder within `assets/js` directory and name it `componen
 
 ## Update the AppComponent
 
-First, we will start with the entry point of the application and add the necessary content to initialize React and bind it to an HTML element with an id of `root`. To proceed, within the `assets`  folder that was automatically generated earlier by Webpack Encore, locate the `./assets/js/app.js` and replace its content with:
+First, we will start with the entry point of the application by adding the necessary content to initialize React, and bind it to an HTML element with an id of `root`. To proceed, within the `assets`  folder that was automatically generated earlier by Webpack Encore, locate the `./assets/js/app.js` and replace its content with:
 
 ```
 // ./src/js/app.js
