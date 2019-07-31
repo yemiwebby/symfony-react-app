@@ -590,7 +590,7 @@ We included the CDN files for Bootstrap, Font Awesome and Google Font. Also we a
 
 ## Running your React and Symfony App
 
-Now, run the application and test its functionality. Before that, ensure that both the Symfony and React application are currently running from separate terminal within your project directory. In case you have closed it already use the command below for the Symfony application:
+Now, run the application and test its functionality. Before that, ensure that both the Symfony and React application are currently running from separate terminals within your project directory. In case you have closed it already use the command below to resume the Symfony application:
 
 ```bash
 php bin/console server:run
@@ -602,7 +602,7 @@ And from the second terminal, run the following command to compile the React app
 yarn encore dev --watch
 ```
 
-Navigate to http://localhost:8000 to view the list of users:
+Navigate to `http://localhost:8000` to view the list of users:
 
 
 ![](https://paper-attachments.dropbox.com/s_1265725ADB054532A55C0EFD08DF0FAB2CEE8562C503298703A715DFE50C9E5D_1563647884397_list-users.png)
